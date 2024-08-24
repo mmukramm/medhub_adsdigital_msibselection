@@ -132,7 +132,7 @@ class _RegisterPageState extends State<RegisterPage> {
                         ),
                       ),
                       Text(
-                        'Don\'t have an account? Sign Up',
+                        'Already have account?  Login',
                         style: textTheme.bodyMedium!
                             .copyWith(color: highlightColor),
                       ),

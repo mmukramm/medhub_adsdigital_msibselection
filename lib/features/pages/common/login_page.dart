@@ -90,7 +90,7 @@ class LoginPage extends StatelessWidget {
                       ),
                     ),
                     Text(
-                      'Already have account?  Login',
+                      'Don\'t have an account? Sign Up',
                       style:
                           textTheme.bodyMedium!.copyWith(color: highlightColor),
                     ),
